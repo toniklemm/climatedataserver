@@ -1,0 +1,6 @@
+a = (/1,2,3,4/)
+b = (/1,2,3,4/)
+c = a * (a + b)
+print(a)
+print(b)
+print(c)
